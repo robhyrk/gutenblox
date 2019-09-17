@@ -1,9 +1,11 @@
 <?php
 /**
  * Plugin Name: GutenBlox
+ * Plugin URI: https://github.com/robhyrk/gutenblox
  * Description: A simple custom Gutenburg Block extension.
  * Version: 0.1.0
  * Author: Rob Hyrkiel
+ * Author URI: https://github.com/robhyrk
  * Text Domain: gutenblox
  * Domain Path: /languages
  *
