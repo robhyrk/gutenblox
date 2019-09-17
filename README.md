@@ -1,11 +1,11 @@
-# Guten Blox Two-Column
+# Guten Blox
 A simple Gutenberg custom block that lets users display a feature image in one column, and accompanying text with an image in another column. The user is easily able to switch on which side the content will appear. 
 
 ## Motivation
 I needed a simple way for the end user to be able to add their own conent using this specific content stack. Could be replicated on other sites so decided to make it a plugin. 
 
 ## Screenshots
-![Guten Blox Two-Column](/screenshots/gutenblox.png?raw=true "gutenblox screenshot")
+![Guten Blox Two-Column](assets/screenshots/gutenblox.png?raw=true "gutenblox screenshot")
 
 ## Tech Used
 Made with Gutenburg components using React and CSS Grid for layout.

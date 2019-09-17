@@ -1,8 +1,8 @@
 <?php
 /**
- * Plugin Name: Guten Blox Two-Column
- * Description: Custom Gutenburg Block for managing two-column layout.
- * Version: 2.0.0
+ * Plugin Name: GutenBlox
+ * Description: A simple custom Gutenburg Block extension.
+ * Version: 0.1.0
  * Author: Rob Hyrkiel
  * Text Domain: gutenblox
  * Domain Path: /languages
